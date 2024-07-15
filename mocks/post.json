@@ -1,0 +1,12 @@
+{
+    "request": {
+      "method": "POST",
+      "path": "/v1/post"
+    },
+    "response": {
+      "body": [
+        { "id": 1, "name": "pos" },
+        { "id": 2, "name": "pas" }
+      ]
+    }
+  }

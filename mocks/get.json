@@ -1,0 +1,12 @@
+{
+    "request": {
+      "method": "GET",
+      "path": "/v1/get"
+    },
+    "response": {
+      "body": [
+        { "id": 1, "name": "get" },
+        { "id": 2, "name": "got" }
+      ]
+    }
+  }

@@ -1,0 +1,9 @@
+GET /v1/get HTTP/1.1
+Host: 127.0.0.1:3030
+
+# DELETE /v1/delete HTTP/1.1
+# Host: 127.0.0.1:3030
+
+# POST /v1/POST url HTTP/1.1
+# Host: 127.0.0.1:3030
+# Content-Type: application/json
